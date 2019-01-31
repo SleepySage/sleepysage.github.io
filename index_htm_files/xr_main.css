@@ -59,15 +59,9 @@ a:active .xr_ro {opacity:0;}
 .xr_nb1 {position: relative;}
 .xr_nb1:after {content: ''; position: absolute; top: 50%; right: .5em; height: 0px; width: 0px; border: 5px solid transparent; margin-top: -5px; margin-right: -3px; border-color: transparent; border-left-color: inherit;}
 .xr_apb {display:block; position:absolute;}
-.xr_bgh0 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb0 {background:none;}
-.xr_bgh1 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb1 {background:none;}
-.xr_bgh2 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb2 {background:none;}
-.xr_bgh3 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb3 {background:none;}
-.xr_bgh4 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb4 {background:none;}
-.xr_bgh5 {background: url("69.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb5 {background:none;}
+.xr_bgb0 {background:url('80.png') -768px 1575px repeat;}
+.xr_bgb1 {background:url('80.png') -768px 1836px repeat;}
+.xr_bgb2 {background:url('80.png') -768px 1520px repeat;}
+.xr_bgb3 {background:url('80.png') -768px 1273px repeat;}
+.xr_bgb4 {background:url('80.png') -768px 2310px repeat;}
+.xr_bgb5 {background:url('80.png') -768px 1463px repeat;}
