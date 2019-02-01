@@ -14,12 +14,10 @@ index_htm_files/68.jpg
 index_htm_files/68@2x.jpg
 index_htm_files/96.png
 index_htm_files/104.png
-index_htm_files/105.png
 index_htm_files/107.png
 index_htm_files/109.png
 index_htm_files/110.png
 index_htm_files/111.jpg
-index_htm_files/112.jpg
 index_htm_files/113.jpg
 index_htm_files/114.jpg
 index_htm_files/130.jpg
@@ -37,10 +35,13 @@ index_htm_files/143@2x.jpg
 index_htm_files/150.png
 index_htm_files/152.jpg
 index_htm_files/153.png
-index_htm_files/154.jpg
+index_htm_files/162.png
+index_htm_files/163.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
 index_htm_files/XaraWDEmbeddedHTMLfont2.eot
 index_htm_files/XaraWDGeneratedHTMLfont3.woff
 index_htm_files/XaraWDEmbeddedHTMLfont3.eot
+index_htm_files/XaraWDGeneratedHTMLfont4.woff
+index_htm_files/XaraWDEmbeddedHTMLfont4.eot
