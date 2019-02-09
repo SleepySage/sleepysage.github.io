@@ -57,8 +57,8 @@ index_htm_files/469.png
 index_htm_files/509.png
 index_htm_files/510.png
 index_htm_files/523.png
-index_htm_files/512.png
 index_htm_files/513.png
+index_htm_files/541.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
