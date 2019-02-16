@@ -39,14 +39,10 @@ index_htm_files/481.png
 index_htm_files/482.png
 index_htm_files/483.png
 index_htm_files/484.png
-index_htm_files/520.jpg
-index_htm_files/507.png
-index_htm_files/507@2x.png
 index_htm_files/457.png
 index_htm_files/458.png
 index_htm_files/459.png
 index_htm_files/460.png
-index_htm_files/461.png
 index_htm_files/532.png
 index_htm_files/433.png
 index_htm_files/465.png
@@ -59,6 +55,12 @@ index_htm_files/510.png
 index_htm_files/523.png
 index_htm_files/513.png
 index_htm_files/541.png
+index_htm_files/548.jpg
+index_htm_files/548@2x.jpg
+index_htm_files/549.jpg
+index_htm_files/549@2x.jpg
+index_htm_files/551.png
+index_htm_files/552.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
