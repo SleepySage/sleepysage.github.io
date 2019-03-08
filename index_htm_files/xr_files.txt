@@ -8,8 +8,6 @@ faq.htm
 about.htm
 index_htm_files/190.png
 index_htm_files/190@2x.png
-index_htm_files/26.jpg
-index_htm_files/26@2x.jpg
 index_htm_files/300.jpg
 index_htm_files/300@2x.jpg
 index_htm_files/301.jpg
@@ -61,6 +59,8 @@ index_htm_files/549.jpg
 index_htm_files/549@2x.jpg
 index_htm_files/551.png
 index_htm_files/552.png
+index_htm_files/557.png
+index_htm_files/584.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
