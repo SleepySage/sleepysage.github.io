@@ -91,8 +91,6 @@ index_htm_files/678.jpg
 index_htm_files/679.jpg
 index_htm_files/679@2x.jpg
 index_htm_files/712.png
-index_htm_files/720.jpg
-index_htm_files/720@2x.jpg
 index_htm_files/735.jpg
 index_htm_files/735@2x.jpg
 index_htm_files/736.jpg
@@ -113,6 +111,8 @@ index_htm_files/814.png
 index_htm_files/814@2x.png
 index_htm_files/824.png
 index_htm_files/824@2x.png
+index_htm_files/833.png
+index_htm_files/833@2x.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
