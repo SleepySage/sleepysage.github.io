@@ -59,10 +59,11 @@ a:active .xr_ro {opacity:0;}
 .xr_nb1 {position: relative;}
 .xr_nb1:after {content: ''; position: absolute; top: 50%; right: .5em; height: 0px; width: 0px; border: 5px solid transparent; margin-top: -5px; margin-right: -3px; border-color: transparent; border-left-color: inherit;}
 .xr_apb {display:block; position:absolute;}
-.xr_bgb0 {background:url('190.png') -768px 1575px repeat; background-attachment:fixed;}
+.xr_bgb0 {background:url('190.png') -768px 1622px repeat; background-attachment:fixed;}
 .xr_bgb1 {background:url('190.png') -768px 1836px repeat; background-attachment:fixed;}
 .xr_bgb2 {background:url('190.png') -768px 3422px repeat; background-attachment:fixed;}
-.xr_bgb3 {background:url('190.png') -768px 2348px repeat; background-attachment:fixed;}
+.xr_bgb3 {background:url('190.png') -768px 2645px repeat; background-attachment:fixed;}
 .xr_bgb4 {background:url('190.png') -768px 5229px repeat; background-attachment:fixed;}
-.xr_bgb5 {background:url('190.png') -768px 2445px repeat; background-attachment:fixed;}
-.xr_bgb6 {background:url('190.png') -768px 1681px repeat; background-attachment:fixed;}
+.xr_bgb5 {background:url('190.png') -768px 2625px repeat; background-attachment:fixed;}
+.xr_bgb6 {background:url('190.png') -768px 2445px repeat; background-attachment:fixed;}
+.xr_bgb7 {background:url('190.png') -768px 1681px repeat; background-attachment:fixed;}
